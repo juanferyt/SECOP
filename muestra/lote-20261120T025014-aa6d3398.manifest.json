@@ -1,0 +1,20 @@
+{
+  "run_id": "20261120T025014-aa6d3398",
+  "url": "https://www.datos.gov.co/resource/jbjy-vk9h.json",
+  "parametros": {
+    "where_inicio": "fecha_de_firma IS NOT NULL AND fecha_de_firma >= '2026-01-01T00:00:00'",
+    "order": "fecha_de_firma ASC,id_contrato ASC",
+    "page_size": 200,
+    "max_rows": 1000,
+    "start_date": "2026-01-01"
+  },
+  "fecha_ingesta": "2026-11-20T02:50:14.134848+00:00",
+  "registros": 1000,
+  "descartados_sin_id": 0,
+  "paginas": 5,
+  "sha256_jsonl": "37e465607bce7e3fd8ed65041f0196a26086430a906cb01224a72692f0e4e6aa",
+  "archivo": "data/raw/fecha_ingesta=2026-11-20/lote-20261120T025014-aa6d3398.jsonl",
+  "max_fecha_firma": "2026-01-01T15:54:29.839",
+  "max_id_contrato": "CO1.PCCNTR.8751568",
+  "extraccion_completa": false
+}
