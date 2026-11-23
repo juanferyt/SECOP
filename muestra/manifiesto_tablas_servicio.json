@@ -1,0 +1,26 @@
+{
+  "fecha_exportacion": "2026-11-23",
+  "base": "data/service.db",
+  "tablas": {
+    "departamento": {
+      "archivo": "servicio_departamento.csv",
+      "filas": 30,
+      "sha256": "4c293d25e5a354e823ecc2f958bd246812a2acf449742ed1636e75220b3ec91d"
+    },
+    "fecha": {
+      "archivo": "servicio_fecha.csv",
+      "filas": 7,
+      "sha256": "9be0af68f49747c9f93b1401ac76bcfdee5728047d0fdce899a1067ad3418e2b"
+    },
+    "modalidad": {
+      "archivo": "servicio_modalidad.csv",
+      "filas": 11,
+      "sha256": "8131ae8971c72f93ff1dc070a3c8c3efad71b669c86d938ee1eb696c8a8c0e6a"
+    },
+    "stream_hour": {
+      "archivo": "servicio_stream_hour.csv",
+      "filas": 30,
+      "sha256": "75c36e801c511a8b09fd78098bfc2432bf8e3c5003118e64f0da5e771cf9628f"
+    }
+  }
+}

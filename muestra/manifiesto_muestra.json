@@ -1,0 +1,7 @@
+{
+  "tipo": "muestra",
+  "origen": "data/raw/fecha_ingesta=2026-11-20/lote-20261120T025014-aa6d3398.jsonl",
+  "registros": 20,
+  "sha256_muestra": "6be44e2dd7d82be44aa16999c3fabda1ac874b9059bb0b84579e49eec0be3539",
+  "nota": "Archivo de muestra; el manifiesto original del lote de 1000 registros permanece en data/raw."
+}

@@ -1,0 +1,7 @@
+{
+  "new_input_files": [],
+  "contracts_before": 20000,
+  "contracts_after": 20000,
+  "delta": 0,
+  "checkpoint": "/workspace/data/checkpoints/secop_hour"
+}

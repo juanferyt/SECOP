@@ -1,0 +1,73 @@
+﻿drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos
+-rw-r--r--   3 root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/_SUCCESS
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Amazonas
+-rw-r--r--   3 root supergroup       2669 2026-11-23 20:50 /secop/curada/contratos/departamento=Amazonas/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Antioquia
+-rw-r--r--   3 root supergroup      63508 2026-11-23 20:50 /secop/curada/contratos/departamento=Antioquia/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Arauca
+-rw-r--r--   3 root supergroup       2852 2026-11-23 20:50 /secop/curada/contratos/departamento=Arauca/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Atl├íntico
+-rw-r--r--   3 root supergroup      14592 2026-11-23 20:50 /secop/curada/contratos/departamento=Atl├íntico/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Bol├¡var
+-rw-r--r--   3 root supergroup      19760 2026-11-23 20:50 /secop/curada/contratos/departamento=Bol├¡var/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Boyac├í
+-rw-r--r--   3 root supergroup      20849 2026-11-23 20:50 /secop/curada/contratos/departamento=Boyac├í/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=C├│rdoba
+-rw-r--r--   3 root supergroup       6373 2026-11-23 20:50 /secop/curada/contratos/departamento=C├│rdoba/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Caldas
+-rw-r--r--   3 root supergroup      17715 2026-11-23 20:50 /secop/curada/contratos/departamento=Caldas/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Caquet├í
+-rw-r--r--   3 root supergroup       3009 2026-11-23 20:50 /secop/curada/contratos/departamento=Caquet├í/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Casanare
+-rw-r--r--   3 root supergroup       6313 2026-11-23 20:50 /secop/curada/contratos/departamento=Casanare/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Cauca
+-rw-r--r--   3 root supergroup       8312 2026-11-23 20:50 /secop/curada/contratos/departamento=Cauca/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Cesar
+-rw-r--r--   3 root supergroup       5651 2026-11-23 20:50 /secop/curada/contratos/departamento=Cesar/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Choc├│
+-rw-r--r--   3 root supergroup       2843 2026-11-23 20:50 /secop/curada/contratos/departamento=Choc├│/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Cundinamarca
+-rw-r--r--   3 root supergroup      51197 2026-11-23 20:50 /secop/curada/contratos/departamento=Cundinamarca/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Distrito Capital de Bogot├í
+-rw-r--r--   3 root supergroup     109607 2026-11-23 20:50 /secop/curada/contratos/departamento=Distrito Capital de Bogot├í/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Huila
+-rw-r--r--   3 root supergroup       6371 2026-11-23 20:50 /secop/curada/contratos/departamento=Huila/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=La Guajira
+-rw-r--r--   3 root supergroup       2615 2026-11-23 20:50 /secop/curada/contratos/departamento=La Guajira/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Magdalena
+-rw-r--r--   3 root supergroup      15547 2026-11-23 20:50 /secop/curada/contratos/departamento=Magdalena/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Meta
+-rw-r--r--   3 root supergroup      20166 2026-11-23 20:50 /secop/curada/contratos/departamento=Meta/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Nari├▒o
+-rw-r--r--   3 root supergroup       6405 2026-11-23 20:50 /secop/curada/contratos/departamento=Nari├▒o/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=No Definido
+-rw-r--r--   3 root supergroup      10436 2026-11-23 20:50 /secop/curada/contratos/departamento=No Definido/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Norte de Santander
+-rw-r--r--   3 root supergroup      11642 2026-11-23 20:50 /secop/curada/contratos/departamento=Norte de Santander/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Putumayo
+-rw-r--r--   3 root supergroup       5721 2026-11-23 20:50 /secop/curada/contratos/departamento=Putumayo/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Quind├¡o
+-rw-r--r--   3 root supergroup      10066 2026-11-23 20:50 /secop/curada/contratos/departamento=Quind├¡o/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Risaralda
+-rw-r--r--   3 root supergroup       8104 2026-11-23 20:50 /secop/curada/contratos/departamento=Risaralda/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=San Andr├®s, Providencia y Santa Catalina
+-rw-r--r--   3 root supergroup       2923 2026-11-23 20:50 /secop/curada/contratos/departamento=San Andr├®s, Providencia y Santa Catalina/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Santander
+-rw-r--r--   3 root supergroup      17149 2026-11-23 20:50 /secop/curada/contratos/departamento=Santander/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Sucre
+-rw-r--r--   3 root supergroup       3451 2026-11-23 20:50 /secop/curada/contratos/departamento=Sucre/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Tolima
+-rw-r--r--   3 root supergroup      22474 2026-11-23 20:50 /secop/curada/contratos/departamento=Tolima/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/curada/contratos/departamento=Valle del Cauca
+-rw-r--r--   3 root supergroup      19619 2026-11-23 20:50 /secop/curada/contratos/departamento=Valle del Cauca/part-00000-59a7b148-0bb1-43ff-b68a-16aea7a0e4ca.c000.snappy.parquet
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/mapreduce
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:50 /secop/mapreduce/departamento
+-rw-r--r--   1 root supergroup          0 2026-11-23 20:50 /secop/mapreduce/departamento/_SUCCESS
+-rw-r--r--   1 root supergroup        440 2026-11-23 20:50 /secop/mapreduce/departamento/part-00000
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:26 /secop/raw
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:26 /secop/raw/datos.gov.co
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:26 /secop/raw/datos.gov.co/jbjy-vk9h
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:49 /secop/raw/datos.gov.co/jbjy-vk9h/fecha_ingesta=2026-11-20
+-rw-r--r--   1 root supergroup    4172526 2026-11-23 20:49 /secop/raw/datos.gov.co/jbjy-vk9h/fecha_ingesta=2026-11-20/lote-20261120T025014-aa6d3398.jsonl
+-rw-r--r--   1 root supergroup   81495100 2026-11-23 20:49 /secop/raw/datos.gov.co/jbjy-vk9h/fecha_ingesta=2026-11-20/lote-20261120T025032-dd15bdb7.jsonl

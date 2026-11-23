@@ -1,0 +1,25 @@
+{
+  "fecha_ejecucion_reportada": "2026-11-23",
+  "publicacion_kafka": {
+    "ids_ya_presentes": 20000,
+    "nuevos_entregados": 0,
+    "fallidos": 0,
+    "pendientes": 0
+  },
+  "consumidor_hdfs": {
+    "unique_messages": 20000,
+    "duplicate_messages_skipped": 0,
+    "files": 2
+  },
+  "lotes": [
+    {
+      "archivo": "lote-20261120T025014-aa6d3398.jsonl",
+      "mensajes_unicos": 1000
+    },
+    {
+      "archivo": "lote-20261120T025032-dd15bdb7.jsonl",
+      "mensajes_unicos": 19000
+    }
+  ],
+  "fuente_de_publicacion": "Salida de consola compartida para esta ejecuci?n"
+}

@@ -1,0 +1,47 @@
+services:
+  namenode:
+    image: apache/hadoop:3.4.2
+    user: root
+    entrypoint: ["/bin/bash", "-lc"]
+    command:
+      - 'if [ ! -f /hadoop/name/current/VERSION ]; then hdfs namenode -format -force -nonInteractive; fi; exec hdfs namenode'
+    environment:
+      HADOOP_CONF_DIR: /opt/hadoop/etc/hadoop
+    volumes:
+      - ./config/hadoop/core-site.xml:/opt/hadoop/etc/hadoop/core-site.xml:ro
+      - ./config/hadoop/hdfs-site.xml:/opt/hadoop/etc/hadoop/hdfs-site.xml:ro
+      - hdfs-name:/hadoop/name
+      - ./:/workspace
+    ports:
+      - '9870:9870'
+    networks: [secop-net]
+  datanode:
+    image: apache/hadoop:3.4.2
+    user: root
+    entrypoint: ["/bin/bash", "-lc"]
+    command: ['exec hdfs datanode']
+    environment:
+      HADOOP_CONF_DIR: /opt/hadoop/etc/hadoop
+    volumes:
+      - ./config/hadoop/core-site.xml:/opt/hadoop/etc/hadoop/core-site.xml:ro
+      - ./config/hadoop/hdfs-site.xml:/opt/hadoop/etc/hadoop/hdfs-site.xml:ro
+      - hdfs-data:/hadoop/data
+    depends_on: [namenode]
+    networks: [secop-net]
+  spark:
+    image: apache/spark:3.5.7
+    user: root
+    entrypoint: ["/bin/bash", "-lc"]
+    command: ['exec sleep infinity']
+    environment:
+      SPARK_LOCAL_IP: 127.0.0.1
+    volumes:
+      - ./:/workspace
+    depends_on: [datanode]
+    networks: [secop-net]
+    mem_limit: 4g
+networks:
+  secop-net: {}
+volumes:
+  hdfs-name: {}
+  hdfs-data: {}

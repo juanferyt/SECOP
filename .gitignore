@@ -1,0 +1,22 @@
+__pycache__/
+.venv/
+.pytest_cache/
+data/raw/
+data/staging/
+data/curada/
+data/stream_in/
+data/service.db*
+data/state/
+data/checkpoints/
+resultados/
+evidencias/
+*.zip
+
+# Public submission evidence; keep generated operational state and databases ignored.
+!evidencias/
+evidencias/*
+!evidencias/*.md
+!evidencias/*.txt
+!evidencias/*.json
+!evidencias/*.png
+!evidencias/*.tsv

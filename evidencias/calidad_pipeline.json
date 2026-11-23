@@ -1,0 +1,9 @@
+{
+  "raw_rows": 20000,
+  "invalid_discarded": 0,
+  "duplicates_removed": 0,
+  "curated_rows": 20000,
+  "mapreduce_spark_match": true,
+  "zero_values_kept": 15,
+  "critical_invalid_threshold_pct": 5
+}

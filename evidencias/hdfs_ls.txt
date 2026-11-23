@@ -1,0 +1,5 @@
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:26 /secop/raw/datos.gov.co
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:26 /secop/raw/datos.gov.co/jbjy-vk9h
+drwxr-xr-x   - root supergroup          0 2026-11-23 20:52 /secop/raw/datos.gov.co/jbjy-vk9h/fecha_ingesta=2026-11-20
+-rw-r--r--   1 root supergroup    4172526 2026-11-23 20:52 /secop/raw/datos.gov.co/jbjy-vk9h/fecha_ingesta=2026-11-20/lote-20261120T025014-aa6d3398.jsonl
+-rw-r--r--   1 root supergroup   81495100 2026-11-23 20:52 /secop/raw/datos.gov.co/jbjy-vk9h/fecha_ingesta=2026-11-20/lote-20261120T025032-dd15bdb7.jsonl

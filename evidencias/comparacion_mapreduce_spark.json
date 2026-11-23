@@ -1,0 +1,9 @@
+{
+  "metodo": "Conteos por departamento: TSV de Hadoop Streaming vs tabla Spark curada en SQLite",
+  "filas_mapreduce": 20000,
+  "filas_spark": 20000,
+  "departamentos_mapreduce": 30,
+  "departamentos_spark": 30,
+  "conteos_por_departamento_coinciden": true,
+  "reporte_calidad_mapreduce_spark_match": true
+}
